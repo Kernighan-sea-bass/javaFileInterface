@@ -1,0 +1,8 @@
+enum Stagionalita{
+
+  DEFAULT,
+  PRIMAVERILE,
+  ESTIVA,
+  AUTUNNALE,
+  INVERNALE
+}

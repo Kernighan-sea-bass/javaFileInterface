@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Frutti>
+    <Frutto costo="5" stagionalita="AUTUNNALE">
+        <nome>melograno</nome>
+    </Frutto>
+    <Frutto costo="2" stagionalita="PRIMAVERILE">
+        <nome>mela</nome>
+    </Frutto>
+</Frutti>
